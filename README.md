@@ -1,2 +1,2 @@
 # hello-world
-just a description
+just a description for git commands demonstration
